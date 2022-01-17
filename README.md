@@ -1,5 +1,5 @@
 # Authentication
-Tugas Kelompok
+Tugas Kelompok (Carmello, Rizka, Amelia)
 => revisi kemarin
 1. search by firstName dan lastName saja, tidak userName
 2. userName yang sama akan dibedakan dengan auto generate
